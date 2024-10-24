@@ -6,7 +6,7 @@ O programa localizado neste repositório se chama **Produtos em Estoque** e foi 
 
 ## Tela Principal
 
-![imagem1](https://github.com/user-attachments/assets/da2e0993-cb08-4c6b-a2c6-23faec9f7c54)
+<img alt="imagem1" src="https://github.com/user-attachments/assets/0a1542e3-dba1-40a0-9cbb-941fc5058a0f">
 
 Ao entrar no programa **Produtos em Estoque**, o usuário se depara com a tela **Principal** (mostrada na imagem acima). A tela **Principal** conta com um menu lateral composto por dois botões. O primeiro botão se chama **Adicionar um produto na LISTA DE PRODUTOS EM ESTOQUE**. Já o segundo botão se chama **Remover este produto da LISTA DE PRODUTOS EM ESTOQUE**.
 
