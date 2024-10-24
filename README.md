@@ -6,7 +6,7 @@ O programa localizado neste repositório se chama **Produtos em Estoque** e foi 
 
 ## Tela Principal
 
-<img alt="imagem1" src="https://github.com/user-attachments/assets/0a1542e3-dba1-40a0-9cbb-941fc5058a0f">
+<img alt="imagem1" src="https://github.com/user-attachments/assets/75fab4c2-93b0-405a-87e9-d95812b50eb5">
 
 Ao entrar no programa **Produtos em Estoque**, o usuário se depara com a tela **Principal** (mostrada na imagem acima). A tela **Principal** conta com um menu lateral composto por dois botões. O primeiro botão se chama **Adicionar um produto na LISTA DE PRODUTOS EM ESTOQUE**. Já o segundo botão se chama **Remover este produto da LISTA DE PRODUTOS EM ESTOQUE**.
 
@@ -14,7 +14,11 @@ A tela **Principal** ainda possui uma lista chamada de **LISTA DE PRODUTOS EM ES
 
 ## Tela Adicionar Produto
 
+// imagem2
+
 Ao clicar no botão **Adicionar um produto na LISTA DE PRODUTOS EM ESTOQUE**, o usuário será direcionado para a tela **Adicionar Produto** (mostrada na imagem acima). Nesta tela, o usuário poderá adicionar um produto (CAFÉ, por exemplo) na **LISTA DE PRODUTOS EM ESTOQUE**.
+
+// imagem3
 
 Quando o usuário adiciona um produto, a **LISTA DE PRODUTOS EM ESTOQUE** é automaticamente atualizada, sendo que o produto é encaixado de modo que a lista fique em ordem alfabética. Isso pode ser observado na imagem acima, a qual mostra como a **LISTA DE PRODUTOS EM ESTOQUE** ficou depois da inserção do produto CAFÉ. Repare também que, abaixo da **LISTA DE PRODUTOS EM ESTOQUE**, o contador passou de 8 para 9.
 
@@ -22,12 +26,22 @@ Quando o usuário adiciona um produto, a **LISTA DE PRODUTOS EM ESTOQUE** é aut
 
 ## Tela Remover Produto
 
+// imagem4
+
 Ao clicar no botão **Remover este produto da LISTA DE PRODUTOS EM ESTOQUE**, o usuário será direcionado para a tela **Remover Produto**. Este botão somente se tornará visível quando um, e apenas um, item da **LISTA DE PRODUTOS EM ESTOQUE** estiver selecionado, conforme pode ser visto na imagem acima (o produto CAFÉ está selecionado). Perceba também que, acima do referido botão, há uma mensagem que confirma qual item está selecionado.
+
+// imagem5
 
 Na tela **Remover Produto** (mostrada na imagem acima), há uma mensagem perguntando se o usuário deseja realmente remover o produto selecionado. Caso o usuário clique no botão **Sim**, o produto selecionado é removido tanto do **PostgreSQL** quanto da **LISTA DE PRODUTOS EM ESTOQUE**.
 
+// imagem6
+
 A imagem acima mostra como ficou a **LISTA DE PRODUTOS EM ESTOQUE** após a remoção do produto CAFÉ.
 
+// imagem7
+
 A imagem acima mostra como estava a tabela do **PostgreSQL** antes da remoção do produto CAFÉ.
+
+// imagem8
 
 A imagem acima mostra como ficou a tabela do **PostgreSQL** após a remoção do produto CAFÉ.
