@@ -38,7 +38,7 @@ Na tela **Remover Produto** (mostrada na imagem acima), há uma mensagem pergunt
 
 A imagem acima mostra como ficou a **LISTA DE PRODUTOS EM ESTOQUE** após a remoção do produto CAFÉ.
 
-// imagem7
+![imagem7](https://github.com/user-attachments/assets/4a1191a3-3dec-40f3-b273-5e870acf6803)
 
 A imagem acima mostra como estava a tabela do **PostgreSQL** antes da remoção do produto CAFÉ.
 
