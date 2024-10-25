@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O programa localizado neste repositório se chama **Produtos em Estoque** e foi desenvolvido por mim, **Lorenzo Fernandes Aguiar**. Este programa permite que o usuário saiba quantos e quais são os produtos armazenados em estoque. Isso é feito através de uma lista na qual produtos podem ser adicionados e removidos pelo usuário.
+O programa localizado neste repositório se chama **Produtos em Estoque** e foi desenvolvido por mim, **Lorenzo Fernandes Aguiar**, na linguagem de programação **Java**. Este programa permite que o usuário saiba quantos e quais são os produtos armazenados em estoque. Isso é feito através de uma lista na qual produtos podem ser adicionados e removidos pelo usuário.
 
 ## Tela Principal
 
@@ -36,12 +36,12 @@ Na tela **Remover Produto** (mostrada na imagem acima), há uma mensagem pergunt
 
 <img alt="imagem6" src="https://github.com/user-attachments/assets/c019ab22-8ee1-4a87-8d5c-3a64c850d76a">
 
-A imagem acima mostra como ficou a **LISTA DE PRODUTOS EM ESTOQUE** após a remoção do produto CAFÉ.
+A imagem acima mostra como ficou a **LISTA DE PRODUTOS EM ESTOQUE** após a remoção do produto CAFÉ. Perceba que o contador passou de 9 para 8.
 
 ![imagem7](https://github.com/user-attachments/assets/4a1191a3-3dec-40f3-b273-5e870acf6803)
 
 A imagem acima mostra como estava a tabela do **PostgreSQL** antes da remoção do produto CAFÉ.
 
-// imagem8
+![imagem8](https://github.com/user-attachments/assets/1a093854-a901-416f-a95f-72455d3b766b)
 
 A imagem acima mostra como ficou a tabela do **PostgreSQL** após a remoção do produto CAFÉ.
